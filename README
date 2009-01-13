@@ -1,0 +1,3 @@
+This is a meta-repository, that includes are l10n repositories.
+If you are a developer and you want to add l10n support,
+you do something like 'git submodule l10n ...' to add me!
