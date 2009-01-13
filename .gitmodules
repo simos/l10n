@@ -1,0 +1,12 @@
+[submodule "l10n-es"]
+	path = l10n-es
+	url = git://github.com/simos/l10n-es.git
+[submodule "l10n-el"]
+	path = l10n-el
+	url = git://github.com/simos/l10n-el.git
+[submodule "l10n-fr"]
+	path = l10n-fr
+	url = git://github.com/simos/l10n-fr.git
+[submodule "l10n-sv"]
+	path = l10n-sv
+	url = git://github.com/simos/l10n-sv.git
